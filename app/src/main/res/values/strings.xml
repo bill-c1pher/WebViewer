@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Web Viewer</string>
+    <string name="go">Go</string>
+    <string name="url_bar_hint">Search or Enter url</string>
+</resources>
